@@ -11,6 +11,7 @@
 config/database.php
 config/local.php
 config/database.local.php
+config/hash.php
 
 # ==========================================
 # LOG FILES
